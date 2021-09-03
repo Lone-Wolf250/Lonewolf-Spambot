@@ -1,8 +1,8 @@
-# KINGBOT SPAM BOT 
+# LONEWOLF SPAMBOT
 A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/HOSTING THIS U CAN SPAM ON TELEGRAM BY ONE COMMAND TO 10 ACCOUNT AT ONE TIME.
 
 <p align="center">
-  <img src="https://telegra.ph/file/fc22cb568f8e82f574109.jpg" alt="KINGBOT SPAM BOT">
+  <img src="https://telegra.ph/file/3fc8630353cc96a94407f.jpg" alt="LONEWOLF SPAM BOT">
 </p>
 
 
@@ -28,18 +28,14 @@ No required api hash or app/api id
 ### Contact Support
 Any queries or issue contact 
 
-https://t.me/KINGBOTOFFICIAL
-https://t.me/KINGBOTOFFICIALCHAT
+https://t.me/LONEWOLF250
 
-### YouTube Tutorial
-
-Adding soon👀
 
 
 #### credit
 You can read
-[TEAM KINGBOT + TEAM YUKII](https://telegra.ph/Credits-07-09)
+[TEAM KINGBOT +LONE WOLF+ TEAM YUKII](https://telegra.ph/CREDITS-09-03-2)
 
 ## Feedback / new suggestions
 
-Give Feeds/suggestions in this bot [🚀HERE](https://t.me/KINGBOT_feedbackbot)
+Dm @lonewolf250
