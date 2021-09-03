@@ -22,7 +22,7 @@ A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/H
 
 ### String Generator
 No required api hash or app/api id
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Kartikpro/KINGBOT-STRING#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Lone-Wolf250/Lonewolf-spambot#main.py)
 
 
 ### Contact Support
@@ -37,5 +37,6 @@ You can read
 [TEAM KINGBOT +LONE WOLF+ TEAM YUKII](https://telegra.ph/CREDITS-09-03-2)
 
 ## Feedback / new suggestions
+
 
 Dm @lonewolf250
