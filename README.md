@@ -34,7 +34,7 @@ https://t.me/LONEWOLF250
 
 #### credit
 You can read
-[TEAM KINGBOT +LONE WOLF+ TEAM YUKII](https://telegra.ph/CREDITS-09-03-2)
+[LONE WOLF+ TEAM YUKII](https://telegra.ph/CREDITS-09-03-2)
 
 ## Feedback / new suggestions
 
