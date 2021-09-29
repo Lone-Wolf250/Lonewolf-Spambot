@@ -22,7 +22,7 @@ A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/H
 
 ### String Generator
 No required api hash or app/api id
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Lone-Wolf250/Lonewolf-spambot#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Lone-Wolf250/Lonewolfspambotstringen#main.py)
 
 
 ### Contact Support
