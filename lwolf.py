@@ -852,7 +852,7 @@ _______  _  _  _____  _ _
 
 print(text)
 print("")
-print("Pawri💥! Your KINGBOT SPAM BOT IS DEPLOYED AND WORKING ⚡⚡ ENJOY SPAM ⚡SUPPORT⚡ - @LONEWOLF250.")
+print("Pawri💥! Your LONEWOLF SPAM BOT IS DEPLOYED AND WORKING ⚡⚡ ENJOY SPAM ⚡SUPPORT⚡ - @LONEWOLF250.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
